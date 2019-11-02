@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Login Form</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="style.css
+	">
+</head>
+<body bgcolor="green">
+<div class="Login-box">
+	<h1> Login </h1>
+	<div class="textbox">
+		<i class="fal fa-user"></i>
+		<input type="text" placeholder="User name" name="" value="">
+
+	</div>
+	<div class="textbox">
+		<i class="fas fa-lock"></i>
+		<input type="pass" placeholder="Password" name="" value="">
+		
+	</div>
+<div class="textbox">
+<i class="fas fa-envelope-square"></i>
+		<input type="Email" placeholder="Email" name="" value="">
+		
+	</div>
+<input class="btn" type="button" name="" value="Submit">
+
+</div>
+</body>
+</html>
